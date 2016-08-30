@@ -1,0 +1,6 @@
+Enter the Credentials to access server: 
+helloarvindserver
+Autentication Approved!
+Enter the file you want to send: 
+F2.txt
+The specified file does not exist.Closing Connection....

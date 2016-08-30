@@ -1,0 +1,7 @@
+Enter the Credentials to access server: 
+helloarvindserver
+Autentication Approved!
+Enter the file you want to send: 
+F1.txt
+File is present Be Ready to receive it!
+File transfer is successful!
